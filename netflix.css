@@ -1,0 +1,146 @@
+.main-div{
+     display: flex;
+     flex-direction: column;
+     align-content: space-between;
+     background-image: url("https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png");
+     border-bottom: 10px solid gray;
+}
+.first{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     
+}
+.title{
+     margin-top: 20px;
+     size: 50px;
+     color:red;
+     opacity: 1.4;
+}
+.language{
+     height: 40px;
+     margin-top: 20px;
+     margin-right:20px
+}
+.signout{
+     height:40px;
+     margin-top:20px ;
+     margin-right: 20px;
+}
+.initial-content{
+     margin-top:150px;
+     margin-bottom: 50px;
+     text-align: center;
+    color: white;
+    opacity: 1.5;
+}
+.initial-content h1{
+     font-size: 60px;
+     margin:0%
+}
+.initial-content button{
+     background-color: red;
+     color: white;
+}
+.finishsignup{
+    background-color: red;
+    height: 70px;
+    width: 240px;
+    font-size: 30px;
+    
+   
+}
+.seconddiv{
+     display: flex;
+     flex-direction: row;
+     padding:120px;   
+     color: white;
+     background-color: black;
+     border-bottom: 10px solid gray;
+}
+.contentnew{
+     margin-right: 100px;
+     font-size:30px;
+}
+
+.tvimage{
+     width:500px;
+     height: 300px;
+}
+.thirddiv{
+     display: flex;
+     flex-direction: row;
+     padding: 120px;
+     color:white;
+     background-color: black;
+     border-bottom: 10px solid gray;
+}
+.contentnew2{
+     padding-bottom: 0;
+     padding-left: 100px;
+     margin-left:100px;
+     font-size: 30px;
+}
+.tvimage2{
+     width: 400px;
+     height: 400px;
+}
+
+.fourthddiv{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     
+     color: white;
+     background-color: black;
+     margin-top: 0;
+     border-bottom: 10px solid gray;
+     
+}
+.last-title{
+     padding-top: 100px;
+     font-size: 50px;
+     text-align: center;
+
+}
+.buttoncontent{
+     margin-top: 50px;    
+}
+.b1{ 
+     background-color: rgb(68, 64, 64);
+     height: 80px;
+     width: 800px;
+     margin-bottom: 20px;
+     
+}
+.finishsignup2{
+     display:flex;
+     align-items: center;
+     background-color: red;
+     height: 70px;
+     width: 240px;
+     font-size: 30px;
+     margin-bottom: 30px;
+} 
+.lastdiv{
+     display: flex;
+     flex-direction: column;
+     background-color: black;
+}   
+.FAQ{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     margin-top: 100px;
+     
+}
+.d1{
+     margin-right: 130px;
+}
+.bu{
+     margin-bottom: 30px;
+     color: white;
+     background-color: black;
+     
+}
+
