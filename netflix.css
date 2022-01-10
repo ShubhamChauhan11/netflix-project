@@ -3,7 +3,7 @@
      display: flex;
      flex-direction: column;
      align-content: space-between;
-     background-image: url("https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png");
+     background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/c16cf196-e89e-4c46-8cc7-f2eca6fb0762/8a1bf43e-747e-44e3-a3b6-77a055300254/IN-en-20220103-popsignuptwoweeks-perspective_alpha_website_large.jpg");
      border-bottom: 10px solid gray;
 }
 .first{
@@ -64,9 +64,24 @@
      font-size:30px;
 }
 
+
 .tvimage{
+     position:absolute;
      width:500px;
-     height: 300px;
+     height: 400px;
+     padding-bottom: 0px;
+     
+     
+     
+}
+.firstvideo{
+     position:absolute;
+     width: 750px;
+     height: 200px;
+     
+     z-index: 1;
+     top: 835px;
+     left:700px;
 }
 .thirddiv{
      display: flex;
@@ -112,6 +127,9 @@
      height: 80px;
      width: 800px;
      margin-bottom: 20px;
+     color: white;
+     text-align: left;
+     font-size: 35px;
      
 }
 .finishsignup2{
@@ -132,16 +150,48 @@
      display: flex;
      flex-direction: row;
      justify-content: center;
-     margin-top: 100px;
-     
+     margin-top: 0px;
+     height: 200px;
+     font-size: 14px;
+     padding-bottom: 0%;
+    
 }
 .d1{
      margin-right: 130px;
+    
 }
 .bu{
-     margin-bottom: 30px;
-     color: white;
+     display: block;
+     margin-top: 10px;
+     
+     
+     color: rgb(187, 174, 174);
      background-color: black;
+     text-decoration: none;
      
 }
-
+.calldetails{
+     color:rgb(192, 186, 186);
+     margin-left: 275px;
+     margin-bottom: 10;
+     margin-top: 100px;
+     font-size: 15px;
+     
+}
+.language2{
+     background-color: black;
+     color: white;
+     height: 40px;
+     width: 120px;
+     margin-left: 265px;
+     margin-top:0;
+     margin-bottom: 20px;
+}
+.secondvideo{
+     position:absolute;
+     height: 230px;
+     width: 315px;
+     left: 900px;
+     top:1950px;
+     
+}
